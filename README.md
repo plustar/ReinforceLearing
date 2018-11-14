@@ -23,7 +23,7 @@ obstale_reward=-100 ,final_reward=1000
 	MCOffPolicy迭代迭代次数100000次，gamma=0.9, epsilon=0.5；（这个策略表现并不如其他两个）
 	MCOnPolicy迭代迭代次数10000次，gamma=0.9, epsilon=0.5；
 
-	完成这次作业的过程中，由于使用了修改后的类框架，写程序的速度和调bug的速度比往常有明显的提升。
+完成这次作业的过程中，由于使用了修改后的类框架，写程序的速度和调bug的速度比往常有明显的提升。
 obstale_reward=-100 ,final_reward=500,
 	Sarsa迭代次数50000次，参数alpha=0.5, gamma=0.9, epsilon=0.5；
 	ExpectedSarsa迭代次数500次，参数alpha=0.5, gamma=0.9, epsilon=0.5；
